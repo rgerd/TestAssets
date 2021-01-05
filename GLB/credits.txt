@@ -1,3 +1,3 @@
 santa-hat.glb created by Nathan DiPietro (https://poly.google.com/view/5IBnm-iUjur)
 
-santa-panda.glb uses santa-hat.glb
+santa-panda.glb and santa-panda_trimmed.glb uses santa-hat.glb
