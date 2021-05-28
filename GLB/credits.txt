@@ -1,3 +1,5 @@
 santa-hat.glb created by Nathan DiPietro (https://poly.google.com/view/5IBnm-iUjur)
 
 santa-panda.glb and santa-panda_trimmed.glb uses santa-hat.glb
+
+david.glb created by jerryfisher at https://sketchfab.com/3d-models/david-by-michelangelo-3a8f65d7db8e4ba7a0ea886e2b636128
