@@ -3,3 +3,5 @@ santa-hat.glb created by Nathan DiPietro (https://poly.google.com/view/5IBnm-iUj
 santa-panda.glb and santa-panda_trimmed.glb uses santa-hat.glb
 
 david.glb created by jerryfisher at https://sketchfab.com/3d-models/david-by-michelangelo-3a8f65d7db8e4ba7a0ea886e2b636128
+
+Helios Vaporwave Bust by FiL0S0V is licensed under Creative Commons Attribution https://sketchfab.com/3d-models/helios-vaporwave-bust-f7a0fdfc6bef44b497e33257658764c8
